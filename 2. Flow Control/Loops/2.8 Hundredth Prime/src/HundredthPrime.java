@@ -16,9 +16,10 @@ public class HundredthPrime {
             }
          }
    if (isPrime){
-      count++;
+      count++; //when the count is 100 the program stops and show the number
       if (count == 100) {
-         System.out.println(number);
+         System.out.println(number); //we show the hundredth prime number.
+
       }
    }
          number++;

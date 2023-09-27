@@ -8,11 +8,11 @@ files:
     visible: true
     placeholders:
       - offset: 27
-        length: 562
+        length: 663
         placeholder_text: /* Make a code that displays the 100th prime number */
         initial_state:
-          length: 54
-          offset: 83
+          length: 562
+          offset: 27
         initialized_from_dependency: false
         selected: true
         status: Solved
@@ -26,5 +26,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Mon, 25 Sep 2023 08:56:38 UTC"
+  time: "Thu, 21 Sep 2023 18:58:04 UTC"
 record: -1

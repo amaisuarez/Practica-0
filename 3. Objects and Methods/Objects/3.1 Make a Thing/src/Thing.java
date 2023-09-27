@@ -1,5 +1,7 @@
 public class Thing
 {
-   public Thing() {}
+   public Thing() {
+      Thing myThing = new Thing();
+   }
 
 }
